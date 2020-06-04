@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971147519275",
+    "firebase_url": "https://quarantino-bee94.firebaseio.com",
+    "project_id": "quarantino-bee94",
+    "storage_bucket": "quarantino-bee94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971147519275:android:9bee64c11033713a37516e",
+        "android_client_info": {
+          "package_name": "com.quarantinotest.quarantino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971147519275-j10ge5rls9te1lnr8pnplon55edqcjcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHHVeSboeNI307s61XAlhFOyfIa5ADZ7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971147519275-j10ge5rls9te1lnr8pnplon55edqcjcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
